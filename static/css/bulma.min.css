@@ -521,7 +521,8 @@ pre {
     padding: 1.25rem 1.5rem;
     white-space: pre;
     word-wrap: normal;
-    background: linear-gradient(45deg, #9860ff33, #d2cb0032)
+    background: linear-gradient(45deg, #9860ff33, #d2cb0032);
+    border-radius: 12px;
 }
 
 pre code {
